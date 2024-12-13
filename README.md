@@ -15,7 +15,8 @@ vga_driver_to_frame_buf.v
 We referenced Dr. Jamieson's verilog as a basis to work on our own VGA output file.  We used an FPGA with a 60 MHz clock, so the code had to be adjusted accordingly from the default 50 MHz that it normally runs on.  For any other additions we added to the program, we used code examples offered by [FPGA4student](https://www.fpga4student.com/2016/11/image-processing-on-fpga-verilog.html) to guide us.  There were other features we intended to add but couldn't because whenever one issue was fixed, another one took its place.
 
 ## How to Control/Demo
-// insert youtube video here //
+[ECE_287_Demo.MOV.zip](https://github.com/user-attachments/files/18131313/ECE_287_Demo.MOV.zip)
+
 ## Conclusion
 Throughout the text, we went over the description of the project, what code is used to implement it, and what steps the user must follow in order for the program to work for them.
 ## Citations
